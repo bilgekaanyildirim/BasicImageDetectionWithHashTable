@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BasicImageDetectionWithHashTable",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicImageDetectionWithHashTable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicImageDetectionWithHashTable-Debug-90cc5eb939019fd0ec54.json",
+					"name" : "BasicImageDetectionWithHashTable",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW3/BasicImageDetectionWithHashTable/cmake-build-debug",
+		"source" : "/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW3/BasicImageDetectionWithHashTable"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
